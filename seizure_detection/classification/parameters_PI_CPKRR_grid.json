@@ -1,0 +1,35 @@
+[
+{
+    "feature_map": ["rbf"],
+    "map_param": [0.3],
+    "reg_par": [1e-3,1e-4, 1e-5],
+    "M": [20],
+    "Ld": [1.5],
+    "mu": [0],
+    "max_rank": [15,20, 25],
+    "num_sweeps": [10],
+    "class_weight": ["balanced"]
+    },
+    {
+    "feature_map": ["rbf"],
+    "map_param": [0.4],
+    "reg_par": [1e-3,1e-4, 1e-5],
+    "M": [20],
+    "Ld": [1.8],
+    "mu": [0],
+    "max_rank": [15,20, 25],
+    "num_sweeps": [10],
+    "class_weight": ["balanced"]
+    },
+    {
+    "feature_map": ["rbf"],
+    "map_param": [0.5],
+    "reg_par": [1e-3,1e-4, 1e-5],
+    "M": [20],
+    "Ld": [2.2],
+    "mu": [0],
+    "max_rank": [15,20, 25],
+    "num_sweeps": [10],
+    "class_weight": ["balanced"]
+    }
+]
