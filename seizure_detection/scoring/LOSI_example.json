@@ -1,0 +1,39 @@
+{
+    "RUN_NAME": [
+        "CPKRR_PF_LOSI_P_ID99",
+        "CPKRR_PF_LOSI_P_ID94",
+        "CPKRR_PF_LOSI_P_ID83",
+        "CPKRR_PF_LOSI_P_ID82",
+        "CPKRR_PF_LOSI_P_ID79",
+        "CPKRR_PF_LOSI_P_ID78",
+        "CPKRR_PF_LOSI_P_ID76",
+        "CPKRR_PF_LOSI_P_ID71",
+        "CPKRR_PF_LOSI_P_ID70",
+        "CPKRR_PF_LOSI_P_ID65",
+        "CPKRR_PF_LOSI_P_ID61",
+        "CPKRR_PF_LOSI_P_ID36",
+        "CPKRR_PF_LOSI_P_ID33",
+        "CPKRR_PF_LOSI_P_ID16",
+        "CPKRR_PF_LOSI_P_ID13"
+    ],
+    "RUN_ID": [
+        "316812a7d2fb416f902fdaae2e4aa69e",
+        "4bd725a6f1af44e8a265e0a7c29f9bca",
+        "958dcb7da367465fac044ac35191bdb7",
+        "bcbdd7eda3644b2c982d657fb2c990bc",
+        "bacfa5e7913e4a0c9281f95aef211432",
+        "d48fa5fabc2b423a9f67b3afaa71b555",
+        "69cb6581f86646bb84fe3fb62fcd4d7b",
+        "55adc7776f6e43c58f62b9f1e47671ad",
+        "b5ffd97e0c7846ac8fbc20f264f910cb",
+        "d56f072315d845138021c4b74c8a9c72",
+        "34689047b22f4d3fa45893a2f61be392",
+        "3ba3a2e183fc4493bb93558e441e2378",
+        "e1a1e3ee62384f8eac94d622e7e65c20",
+        "e81ce402df884a32935a284b2244088e",
+        "eac5d799a63c48818f5c81233a8f7346"
+    ],
+    "MODEL_NAME": "CPKRR",
+    "MODEL_TYPE": "PF",
+    "GROUP_COL": "estimator"
+}
